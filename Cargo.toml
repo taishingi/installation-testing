@@ -1,0 +1,12 @@
+[package]
+name = "installation-testing"
+version = "0.0.4"
+edition = "2021"
+description = "A testing installation library"
+license = "GPL-2.0-or-later"
+repository = "https://github.com/taishingi/zuu/tree/master/installation-testing"
+documentation = "https://docs.rs/installation-testing/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
